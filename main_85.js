@@ -1,10 +1,10 @@
-menu_list_array = [ 
-    "Veg Margherita Pizza",                  
-   "Chicken Tandoori Pizza",
-   "Veg Superme Pizza",
-   "Paneer Tikka Pizza",
-   "Deluxe Veggie Pizza",
-   "Veg Extravagnaza Pizza"]; //Add more Pizza item names
+menu_list_array = [ "Veg Margherita Pizza", 
+"Chicken Tandoori Pizza",
+"Veg Supreme Pizza",
+"Panner Tikka Pizza",
+"Delux Veggie Pizza",
+"Veg Extravaganza Pizza"
+]; //Add more Pizza item names
 
 function getmenu()
 {
